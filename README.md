@@ -62,7 +62,7 @@ I would like to learn more about CSS styling.
 ## Author
 
 - Website - [Abdulbasit](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Olabasspace](https://www.frontendmentor.io/profile/Olabasspace)
 - Twitter - [@olaotiabdul](https://www.twitter.com/yourusername)
 
 
