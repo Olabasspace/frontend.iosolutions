@@ -61,7 +61,7 @@ I would like to learn more about CSS styling.
 
 ## Author
 
-- Website - [Abdulbasit]([https://www.your-site.com](https://olabasspace.github.io/frontend.iosolutions/))
+- Website - [Abdulbasit](https://olabasspace.github.io/frontend.iosolutions/)
 - Frontend Mentor - [@Olabasspace](https://www.frontendmentor.io/profile/Olabasspace)
 - Twitter - [@olaotiabdul](https://www.twitter.com/yourusername)
 
