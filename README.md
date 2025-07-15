@@ -26,7 +26,7 @@ This is a screenshot of the solution👇👇
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Olabasspace/frontend.iosolutions)
 - Live Site URL: [Add live site URL here](https://olabasspace.github.io/frontend.iosolutions/)
 
 ## My process
@@ -61,7 +61,7 @@ I would like to learn more about CSS styling.
 
 ## Author
 
-- Website - [Abdulbasit](https://www.your-site.com)
+- Website - [Abdulbasit]([https://www.your-site.com](https://olabasspace.github.io/frontend.iosolutions/))
 - Frontend Mentor - [@Olabasspace](https://www.frontendmentor.io/profile/Olabasspace)
 - Twitter - [@olaotiabdul](https://www.twitter.com/yourusername)
 
